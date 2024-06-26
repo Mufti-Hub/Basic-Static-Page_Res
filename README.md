@@ -1,3 +1,3 @@
-#RANK 20 - Static Page Task
+# RANK 20 - Static Page Task
 
-##Plexus Community
+## Plexus Community
